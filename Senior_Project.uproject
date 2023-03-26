@@ -39,6 +39,10 @@
 			"Name": "SVG_Importer_Plugin",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/09021cab113149408c5af82188b82a10"
+		},
+		{
+			"Name": "Volumetrics",
+			"Enabled": true
 		}
 	]
 }
